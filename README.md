@@ -43,28 +43,6 @@ I build scalable backend systems, REST APIs, and secure authentication services.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ikechukwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkechukwuAgu&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkechukwuAgu&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IkechukwuAgu&theme=radical)
-
-</div>
-
----
-
 ## 📌 Featured Backend Projects
 
 ### 🔐 Authentication System (JWT)
