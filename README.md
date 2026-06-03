@@ -61,7 +61,7 @@ I build scalable backend systems, REST APIs, and secure authentication services.
 - Error handling system
 - Clean project structure
 
-👉 Repo: https://github.com/IkechukwuAgu/[your-repo]
+👉 Repo:https://github.com/IkechukwuAgu/CRUD_API
 
 ---
 
@@ -70,7 +70,7 @@ I build scalable backend systems, REST APIs, and secure authentication services.
 - Optimized SQL queries
 - Schema design best practices
 
-👉 Repo: https://github.com/IkechukwuAgu/[your-repo]
+👉 Repo: https://github.com/IkechukwuAgu/#
 
 ---
 
