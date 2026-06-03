@@ -51,7 +51,7 @@ I build scalable backend systems, REST APIs, and secure authentication services.
 - Protected routes
 - Role-based access (optional upgrade)
 
-👉 Repo: https://github.com/IkechukwuAgu/[your-repo]
+👉 Repo: https://github.com/IkechukwuAgu/[User_management_API]
 
 ---
 
